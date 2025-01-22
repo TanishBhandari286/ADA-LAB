@@ -4,6 +4,8 @@ import java.util.Scanner;
 public class Factorial_R {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Student name --> Tanish Bhandari");
+        System.out.println("Student Roll Number --> 23csu311");
         System.out.print("Enter a number : ");
         int n = scanner.nextInt();
         if (n < 0) {

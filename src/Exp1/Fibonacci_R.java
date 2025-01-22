@@ -3,6 +3,8 @@ package Exp1;
 public class Fibonacci_R {
     public static void main(String[] args) {
         java.util.Scanner scanner = new java.util.Scanner(System.in);
+        System.out.println("Student name --> Tanish Bhandari");
+        System.out.println("Student Roll Number --> 23csu311");
         System.out.print("Enter the number of terms: ");
         int n = scanner.nextInt();
 

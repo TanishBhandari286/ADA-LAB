@@ -19,6 +19,8 @@ public class Selection_Sort {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Student name --> Tanish Bhandari");
+        System.out.println("Student Roll Number --> 23csu311");
 
         System.out.print("Enter the number of ELEMENTS: ");
         int n = scanner.nextInt();
